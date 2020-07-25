@@ -61,5 +61,4 @@ export default class StepSlider {
   sub(ref) {
     return this.elem.querySelector(`.slider__${ref}`);
   }
-  }
 }
